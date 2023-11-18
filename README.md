@@ -1,4 +1,4 @@
-# quizller
+# Quizzler
 
 Introducing my amazing Flutter quiz app! 📱🧠 Test your knowledge and challenge yourself with a variety of exciting quizzes.
 
