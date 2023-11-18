@@ -1,16 +1,6 @@
 # quizller
 
-A new Flutter project.
+Introducing my amazing Flutter quiz app! 📱🧠 Test your knowledge and challenge yourself with a variety of exciting quizzes.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://firebasestorage.googleapis.com/v0/b/pager-3c967.appspot.com/o/quizzler%2F1.png?alt=media&token=c8ed2d47-6a90-4f9d-8c8e-df1dd44719f4)
+![](https://firebasestorage.googleapis.com/v0/b/pager-3c967.appspot.com/o/quizzler%2F2.png?alt=media&token=f6e7eb84-93ab-4eb9-b7e5-392a8f19ab59)
